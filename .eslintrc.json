@@ -21,7 +21,7 @@
     },
     "rules": {
 
-        "es5/no-arrow-functions": 2,
+        "es5/no-arrow-functions":3,
         "es5/no-binary-and-octal-literals": 2,
         "es5/no-block-scoping": 2,
         "es5/no-classes": 2,
